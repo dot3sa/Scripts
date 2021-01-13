@@ -1,6 +1,6 @@
 
 <div align="center"> 
-<h1 align="center">呵呵呵</h1>
+<h1 align="center">呵呵</h1>
 <img src="https://img.shields.io/github/issues/Sunert/Scripts?color=green">
 <img src="https://img.shields.io/github/stars/Sunert/Scripts?color=yellow">
 <img src="https://img.shields.io/github/forks/Sunert/Scripts?color=orange">
