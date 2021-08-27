@@ -2,9 +2,9 @@
     "name": "Sunert 任务脚本",
     "description": "运行时间自定",
     "task": [
-        "20 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
-        "20 15 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
-         "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png"
+        "20 11 8 * * * https://raw.githubusercontent.com/dot3sa/Scripts/main/Task/youth.js, tag=中青看点极速版 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+        "20 15 */2 * * * https://raw.githubusercontent.com/dot3sa/Scripts/main/Task/Youth_Read.js, tag=中青自动阅读 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+         "20 5 10 * * * https://raw.githubusercontent.com/dot3sa/Scripts/main/Task/youth_gain.js, tag=中青浏览赚 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png"
     ],
 }
         
